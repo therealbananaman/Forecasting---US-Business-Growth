@@ -1,0 +1,1 @@
+This third project was an exercise in time-series analysis, specifically forecasting. I used ARIMA and Claude 3.5 Sonnet to assist in writing a bulk of the code, as Claude seems to be ahead of the curve in coding.
